@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/87673997/156028540-7a94db51-dd90-4bc6-9718-96e056d24cab.png)
-
 Clue is a programming language that compiles into Lua code with a syntax similar to languages like C or Rust.
 
 Clue tries to be almost as simple as Lua (with only a slightly more advanced syntax) but adds many optional features that can make code look better or make some things (like metatables) easier to code.
