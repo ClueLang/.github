@@ -4,4 +4,7 @@ Clue tries to be almost as simple as Lua (with only a slightly more advanced syn
 
 Clue does not compile to a specfic version of Lua: flags can be toggled to alter the output to allow most if not all versions or modifications of Lua to be compiled to with Clue.
 
-For more information, check out the [main repository](https://github.com/ClueLang/Clue) or the [documentation](https://github.com/ClueLang/Clue/wiki).
+For more information:
+- [Main repository](https://github.com/ClueLang/Clue)
+- [Documentation](https://github.com/ClueLang/Clue/wiki)
+- [Discord server](https://discord.gg/EQsnWpqN3C)
